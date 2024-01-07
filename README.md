@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Novels
 - 🌱 I’m currently learning Machine learning and Python development
 - 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me shaileshsrinivas25@gmail.com
+- 📫 To connect with me click on this link - https://linktr.ee/shaileshsrinivas
 
 <!---
 ShaileshSrinivas25/ShaileshSrinivas25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
